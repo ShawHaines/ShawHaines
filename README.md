@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi👋, this is Shaw.
+
+- 🔭 Working on how to attract others with a seemingly nice profile page.
+- 💬 Senior@Zhejiang University, *BSc* in Physics
+- 🌱 Learning methods to reduce microwave crosstalk.
+- 📫 shawhaines at zju.edu.cn
+- ⚡ Checkout more on this page: [https://shawhaines.github.io](https://shawhaines.github.io)
+
+
+[![My Github Profile](https://github-readme-stats.vercel.app/api?username=ShawHaines)]()
 
 <!--
 **ShawHaines/ShawHaines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
