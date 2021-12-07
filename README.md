@@ -4,7 +4,9 @@
 - 💬 Senior@Zhejiang University, *BSc* in Physics
 - 🌱 Learning methods to reduce microwave crosstalk.
 - 📫 shawhaines at zju.edu.cn
-- ⚡ Checkout more on this page: [https://shawhaines.github.io](https://shawhaines.github.io)
+- 😐 Got censored by ZJU because of a certain script (still residing in a certain repo).
+
+Checkout more on this page: [https://shawhaines.github.io](https://shawhaines.github.io)
 
 
 [![My Github Profile](https://github-readme-stats.vercel.app/api?username=ShawHaines)]()
