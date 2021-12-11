@@ -1,9 +1,9 @@
 ### Hi👋, this is Shaw.
 
 - 🔭 Working on how to attract others with a seemingly nice profile page.
-- 💬 Senior@Zhejiang University, *BSc* in Physics
+- 💬 Senior at Zhejiang University, *BSc* in Physics
 - 🌱 Learning methods to reduce microwave crosstalk.
-- 📫 shawhaines at zju.edu.cn
+- 📫 shawhaines@zju.edu.cn
 - 😐 Got censored by ZJU because of a certain script (still residing in a certain repo).
 
 Checkout more on this page: [https://shawhaines.github.io](https://shawhaines.github.io)
