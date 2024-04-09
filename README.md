@@ -1,11 +1,9 @@
-### Hi👋, this is Shaw.
+### Hi👋 from a lazy pseudo-programmer.
 
-- 🔭 Working on how to attract others with a seemingly nice profile page.
 - 🎓 *BSc* in Physics, Zhejiang University
-- 💬 1st year graduate student in Physics, Univsersity of Maryland
-- 🌱 Learning methods to reduce microwave crosstalk.
+- 💬 2nd year graduate student in Physics, University of Maryland, College Park
+- 🌱 Error mitigation in analog quantum simulation, quantum simulations on diverse topics.
 - 📫 hhshi@umd.edu
-- 😐 Got censored by ZJU because of a certain script (still residing in a certain repo).
 
 Checkout more on this page: [https://shawhaines.github.io](https://shawhaines.github.io)
 
