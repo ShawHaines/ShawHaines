@@ -1,11 +1,11 @@
 ### Hi👋 from a lazy pseudo-programmer.
 
 - 🎓 *BSc* in Physics, Zhejiang University
-- 💬 2nd year graduate student in Physics, University of Maryland, College Park
+- 💬 3rd year graduate student in Physics, University of Maryland, College Park
 - 🌱 Error mitigation in analog quantum simulation, quantum simulations on diverse topics.
 - 📫 hhshi@umd.edu
 
-Checkout more on this page: [https://shawhaines.github.io](https://shawhaines.github.io)
+Check out more on this page: [https://shawhaines.github.io](https://shawhaines.github.io)
 
 
 [![My Github Profile](https://github-readme-stats.vercel.app/api?username=ShawHaines)]()
