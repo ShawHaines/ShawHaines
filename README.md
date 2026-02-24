@@ -1,7 +1,7 @@
 ### Hi👋 from a lazy pseudo-programmer.
 
 - 🎓 *BSc* in Physics, Zhejiang University
-- 💬 3rd year graduate student in Physics, University of Maryland, College Park
+- 💬 4th year graduate student in Physics, University of Maryland, College Park
 - 🌱 Error mitigation in analog quantum simulation, quantum simulations on diverse topics.
 - 📫 hhshi@umd.edu
 
